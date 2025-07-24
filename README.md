@@ -1,4 +1,4 @@
-#Binary Event Classifier for Power System Data
+# Binary Event Classifier for Power System Data
 
 This repository contains the implementation of a binary classification model developed to detect power system events using real synchrophasor (PMU) measurements from the Brazilian Interconnected Power System (BIPS).
 
